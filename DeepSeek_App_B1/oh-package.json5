@@ -1,0 +1,8 @@
+{
+  "modelVersion": "26.0.0",
+  "name": "deepseekharmony",
+  "version": "1.0.0",
+  "description": "A full-screen HarmonyOS ArkWeb client for https://chat.deepseek.com.",
+  "dependencies": {},
+  "devDependencies": {}
+}
